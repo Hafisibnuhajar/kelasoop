@@ -1,0 +1,2 @@
+# kelasoop
+pertemuan pertama
